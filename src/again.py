@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 A unix command line tool called 'again' is simplifying the usage of othere unix commands
-by providing and iterface of accessing values from the context of previous calls.
+by providing an iterface to access command arguments from the context of previous calls.
 
 
 Copyright 2011 Yauhen Yakimovich. All rights reserved.
